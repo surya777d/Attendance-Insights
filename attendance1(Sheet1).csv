@@ -1,0 +1,400 @@
+Student_ID,Date,Subject,Attendance_Status
+S06592,9/20/2024,Arabic,Present
+S01777,1/22/2025,Math,Present
+S07362,12/3/2024,Geography,PRESENT 
+S12119,3/16/2024,Geography,excused
+S02002,5/24/2024,Math,PRESENT 
+S11872,3/13/2024,Geography,excused
+S03196,7/10/2024,Geography,excused
+S08589,7/10/2024,Math, late
+S09604,8/6/2024,Arabic,Absent
+S00870,12/11/2024,Arabic,left early
+S04335,3/25/2024,Geography,Late
+S03614,11/16/2024,Geography,Late
+S04868,10/14/2024,Math,left early
+S11462,1/7/2025,Arabic,left early
+S02096,1/1/2025,Math,Present
+S01258,5/8/2024,Geography,left early
+S10696,6/25/2024,Arabic, late
+S07045,1/16/2025,Math,Late
+S05335,11/21/2024,Science,Present
+S07904,1/12/2025,Arabic,absnt
+S10897,6/24/2024,Arabic,Late
+S04730,1/28/2025,History,left early
+S11886,11/11/2024,Geography,Present
+S05903,12/7/2024,English, late
+S07581,6/13/2024,Math, late
+S04790,10/28/2024,Math,excused
+S00923,10/7/2024,Science,Absent
+S06107,11/14/2024,Science,PRESENT 
+S04002,6/29/2024,English,absnt
+S06390,8/2/2024,Math,Present
+S03733,6/24/2024,History,PRESENT 
+S03131,1/9/2025,Science,excused
+S00098,10/22/2024,History, late
+S07123,9/17/2024,History,Late
+S07174,5/24/2024,Geography,Present
+S10359,10/2/2024,English,Present
+S07484,10/12/2024,Math,Late
+S02154,8/16/2024,Arabic,excused
+S06923,3/9/2024,English,left early
+S02643,8/30/2024,Arabic,left early
+S05477,9/26/2024,Arabic,absnt
+S04173,7/7/2024,Geography,excused
+S11830,2/11/2025,Math,absnt
+S05599,5/26/2024,Geography,PRESENT 
+S06854,6/16/2024,Arabic, late
+S07816,4/25/2024,History,absnt
+S03711,1/19/2025,History,left early
+S09400,12/12/2024,Science,left early
+S01923,12/18/2024,History,excused
+S03399,10/17/2024,English,left early
+S02512,9/6/2024,English,excused
+S04968,5/9/2024,Arabic,PRESENT 
+S05411,12/5/2024,Geography,absnt
+S00092,1/15/2025,Science, late
+S04268,6/14/2024,Science, late
+S00728,7/1/2024,English,Absent
+S00791,2/17/2025,Math,Late
+S03980,8/9/2024,History, late
+S07782,3/19/2024,History,PRESENT 
+S11206,7/14/2024,English,Absent
+S05315,6/5/2024,English,Late
+S10058,1/18/2025,Math,Absent
+S09580,5/29/2024,Geography,Absent
+S03919,10/31/2024,Science,left early
+S09907,2/24/2025,Geography,left early
+S11748,6/4/2024,Science, late
+S08504,1/3/2025,Arabic,absnt
+S09880,5/5/2024,Math,Present
+S04411,6/5/2024,History,Absent
+S05864,10/9/2024,English, late
+S11872,11/25/2024,Arabic,excused
+S08212,8/21/2024,English,left early
+S09939,11/20/2024,English,Late
+S11868,9/3/2024,English,absnt
+S00393,2/5/2025,Geography,absnt
+S03713,9/7/2024,English,absnt
+S02538,8/2/2024,History,left early
+S11397,1/19/2025,History,left early
+S06823,10/4/2024,English,Present
+S02860,7/23/2024,Math,absnt
+S03714,7/1/2024,Science,Absent
+S09252,11/30/2024,English,excused
+S01796,2/19/2025,History,PRESENT 
+S01735,3/29/2024,Geography, late
+S04703,3/28/2024,Arabic,Absent
+S10917,8/14/2024,Geography,PRESENT 
+S10547,7/29/2024,History,Late
+S05199,5/2/2024,Science, late
+S04190,9/20/2024,Geography,excused
+S04423,7/25/2024,History,Present
+S09721,4/17/2024,English,Late
+S08376,11/23/2024,History,Late
+S06700,3/18/2024,Geography,excused
+S01952,7/2/2024,Arabic,left early
+S11075,6/17/2024,Math,Absent
+S10876,10/22/2024,Geography, late
+S01616,9/3/2024,Science,excused
+S08373,5/13/2024,Math,Absent
+S10677,8/11/2024,Math, late
+S01127,11/30/2024,Science, late
+S01227,5/13/2024,Arabic,excused
+S01164,10/10/2024,Math,absnt
+S05982,1/6/2025,Geography,absnt
+S03492,9/5/2024,Science,Present
+S06839,2/10/2025,English,left early
+S01010,3/13/2024,Science,PRESENT 
+S01173,4/14/2024,Geography, late
+S03525,5/22/2024,Geography,excused
+S04951,9/18/2024,Math,excused
+S04861,2/25/2025,English,Present
+S10713,8/14/2024,Arabic,Absent
+S01755,11/9/2024,Science,left early
+S01456,5/27/2024,Math,Absent
+S07838,5/21/2024,Science,PRESENT 
+S04580,10/13/2024,Math, late
+S04991,5/18/2024,Math,excused
+S08039,6/11/2024,Math,absnt
+S03265,7/26/2024,Geography,PRESENT 
+S05868,5/22/2024,Math,Absent
+S01021,2/3/2025,Arabic,Absent
+S03246,9/3/2024,English,left early
+S02407,10/14/2024,Geography,PRESENT 
+S03648,10/8/2024,Math,Present
+S03250,1/15/2025,English,left early
+S10105,9/3/2024,Geography,PRESENT 
+S12089,8/15/2024,Geography,PRESENT 
+S05615,10/19/2024,Math,absnt
+S07010,8/13/2024,Math,Present
+S00098,1/8/2025,Science,Late
+S09691,7/4/2024,Science,Late
+S01195,11/22/2024,Math,left early
+S10945,1/2/2025,English,Present
+S06205,11/10/2024,History,left early
+S00315,4/16/2024,History,Present
+S10226,3/23/2024,Math,PRESENT 
+S05239,1/27/2025,Geography,absnt
+S00143,4/30/2024,Arabic, late
+S09541,2/1/2025,English,Late
+S00812,10/13/2024,Math,left early
+S11472,5/19/2024,English,Late
+S06368,10/20/2024,History,Late
+S09525,6/11/2024,Math,excused
+S05161,1/5/2025,Geography,left early
+S01798,5/10/2024,Science,left early
+S03533,8/5/2024,English, late
+S10661,4/20/2024,History,left early
+S11359,8/17/2024,Arabic,Late
+S10404,8/8/2024,Science,left early
+S11239,10/4/2024,History,Present
+S08948,11/20/2024,Arabic,excused
+S06971,1/17/2025,Arabic,left early
+S05185,12/20/2024,Arabic, late
+S09384,8/30/2024,Science,PRESENT 
+S12146,11/17/2024,Geography,Absent
+S10227,11/27/2024,English,Present
+S01835,7/6/2024,Geography,absnt
+S00950,2/4/2025,Math, late
+S07267,4/28/2024,English,excused
+S08930,4/17/2024,Science,absnt
+S05133,3/10/2024,History,absnt
+S01446,6/30/2024,Science,PRESENT 
+S01673,11/16/2024,History,left early
+S00293,10/10/2024,English,excused
+S06069,5/31/2024,Math,Present
+S03462,11/25/2024,Science,Absent
+S05365,7/17/2024,History,Absent
+S01348,8/8/2024,History,left early
+S05255,1/16/2025,English,PRESENT 
+S01359,7/18/2024,Geography,PRESENT 
+S01401,4/23/2024,Arabic,Present
+S09532,7/13/2024,Math,Late
+S11047,12/9/2024,Math,Absent
+S10451,10/21/2024,Geography, late
+S02268,6/16/2024,Arabic,absnt
+S05428,6/5/2024,Geography,left early
+S04286,10/31/2024,Geography,Absent
+S11792,11/17/2024,Science, late
+S07396,7/10/2024,Math, late
+S00974,8/27/2024,English,Present
+S05789,6/1/2024,Math,absnt
+S09107,9/22/2024,Science, late
+S05465,7/22/2024,Math,PRESENT 
+S04057,6/11/2024,History,Present
+S05158,9/22/2024,English, late
+S10621,10/17/2024,History,excused
+S08844,2/12/2025,Science,Late
+S08971,8/16/2024,Arabic,left early
+S03533,6/17/2024,Geography,left early
+S11979,5/7/2024,English,Absent
+S01513,9/9/2024,Arabic,PRESENT 
+S02810,2/26/2025,Arabic,PRESENT 
+S05840,5/15/2024,Science,Present
+S00287,2/1/2025,English,PRESENT 
+S02190,6/26/2024,History,excused
+S07941,4/28/2024,History,PRESENT 
+S04860,4/25/2024,Arabic, late
+S11345,4/20/2024,English,PRESENT 
+S10634,1/30/2025,Arabic,Late
+S06142,7/11/2024,English,PRESENT 
+S01246,9/11/2024,English,Late
+S04670,6/25/2024,Science,Present
+S10049,8/11/2024,Geography,left early
+S07858,3/31/2024,English,excused
+S08895,7/3/2024,Science,left early
+S02984,7/29/2024,Science,excused
+S06641,5/1/2024,English,Present
+S03949,3/1/2025,Arabic, late
+S09581,6/22/2024,Geography,PRESENT 
+S00101,4/2/2024,Geography,absnt
+S07376,6/7/2024,Math, late
+S02643,2/4/2025,Geography,left early
+S01498,11/1/2024,Math,left early
+S11317,9/27/2024,Math,excused
+S07003,8/20/2024,History,Present
+S00647,1/12/2025,Science,Late
+S09911,3/31/2024,Geography, late
+S01217,1/24/2025,English,Present
+S01154,11/20/2024,Geography,excused
+S06506,5/27/2024,Arabic,PRESENT 
+S11639,9/18/2024,English,PRESENT 
+S05379,8/11/2024,Science,Absent
+S09136,2/15/2025,Math,Absent
+S11086,1/5/2025,Geography,Present
+S02673,10/13/2024,Geography,Late
+S07178,11/12/2024,Math,Present
+S05262,8/6/2024,Science,absnt
+S09252,11/8/2024,Geography,Present
+S09510,10/5/2024,Geography,Present
+S00196,2/19/2025,Geography,PRESENT 
+S02718,4/1/2024,History,Late
+S03031,12/17/2024,History,Absent
+S03505,12/7/2024,English,Late
+S02600,3/27/2024,Arabic,Present
+S05219,3/31/2024,Science,Present
+S01978,8/20/2024,History,Late
+S07483,2/6/2025,Arabic,left early
+S07464,1/24/2025,English,Absent
+S07592,8/30/2024,History,PRESENT 
+S00013,4/11/2024,History,Late
+S03701,3/30/2024,English,Late
+S06760,3/9/2025,English,left early
+S09179,6/2/2024,English,PRESENT 
+S09484,11/19/2024,History,absnt
+S04218,6/7/2024,Arabic, late
+S08516,10/8/2024,Science,left early
+S08235,6/12/2024,Geography,PRESENT 
+S00220,4/23/2024,Geography,Late
+S09330,9/13/2024,Geography,Absent
+S07993,7/11/2024,Math,excused
+S11863,1/23/2025,Science,PRESENT 
+S00261,6/30/2024,Arabic,Absent
+S10268,4/4/2024,Arabic,left early
+S03210,2/27/2025,Science,Absent
+S09424,5/12/2024,English,Absent
+S05133,1/19/2025,Science,Absent
+S11868,5/17/2024,History,Present
+S09512,4/15/2024,English,Present
+S03947,9/24/2024,Arabic,Late
+S03969,7/11/2024,History,left early
+S01477,1/16/2025,Math,left early
+S09666,5/7/2024,Geography,excused
+S06415,3/21/2024,English,Absent
+S03566,8/17/2024,Arabic, late
+S02822,11/14/2024,Arabic,absnt
+S09705,10/23/2024,Math,excused
+S01712,9/14/2024,Arabic,Late
+S08775,5/12/2024,English,excused
+S06252,9/23/2024,Math,Late
+S08902,10/11/2024,English,PRESENT 
+S01912,8/31/2024,English,PRESENT 
+S10756,4/27/2024,English, late
+S10982,1/31/2025,Arabic, late
+S01241,4/23/2024,English,Absent
+S10740,10/13/2024,Science,Late
+S07983,5/24/2024,Arabic, late
+S00221,6/2/2024,History,Absent
+S03972,1/8/2025,History, late
+S06100,2/1/2025,Geography,absnt
+S08974,6/27/2024,Arabic,left early
+S07142,1/29/2025,Geography,left early
+S04008,5/26/2024,History,Absent
+S06318,9/18/2024,Science,Present
+S11137,4/15/2024,Arabic,Late
+S01968,9/29/2024,Arabic,Absent
+S08370,7/16/2024,Math,Absent
+S03551,11/18/2024,Math, late
+S04410,12/10/2024,History,Present
+S09176,11/15/2024,History,Absent
+S11189,11/15/2024,Science,PRESENT 
+S01587,1/22/2025,History,Late
+S10253,11/10/2024,Geography,Absent
+S11131,2/12/2025,Science,PRESENT 
+S11962,12/24/2024,English,left early
+S10979,9/22/2024,History, late
+S08006,10/23/2024,Math,Present
+S04971,12/5/2024,English,excused
+S01981,12/6/2024,Geography,Late
+S09016,2/28/2025,History,absnt
+S04701,12/10/2024,English,excused
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
